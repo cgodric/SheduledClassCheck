@@ -120,7 +120,7 @@ namespace SheduledClassCheck
             this.MinimizeBox = false;
             this.Name = "loginFrm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Учёт аудиторий";
+            this.Text = "Учёт занятости аудиторий";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
